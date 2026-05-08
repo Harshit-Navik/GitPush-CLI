@@ -36,12 +36,12 @@ This tool is perfect for developers who frequently push code changes and want a 
 
 GitPush requires Node.js to run. Download and install from [nodejs.org](https://nodejs.org/). Choose the LTS version.
 
-### Step 2: Install GitPush
+### Step 2: Install GitPushX
 
 From your terminal, run:
 
 ```bash
-npm install -g gitpush-cli
+npm install -g gitpushx
 ```
 
 ### Step 3: Verify Installation
@@ -208,8 +208,8 @@ git config --global user.email "your.email@example.com"
 **Problem:** GitPush isn't installed or not in your PATH.
 
 **Solutions:**
-1. Verify installation: `npm list -g gitpush-cli`
-2. If not installed, run: `npm install -g gitpush-cli`
+1. Verify installation: `npm list -g gitpushx`
+2. If not installed, run: `npm install -g gitpushx`
 3. On macOS/Linux, ensure npm global bin is in your PATH
 
 ### "git push" hangs or doesn't complete
