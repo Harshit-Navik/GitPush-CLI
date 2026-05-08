@@ -1,5 +1,5 @@
 {
-  "name": "@harshit-navik/gitpush-cli",
+  "name": "gitpush-cli",
   "version": "1.0.0",
   "bin": {
     "gitpush": "bin/index.js"
