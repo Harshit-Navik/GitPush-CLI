@@ -2,7 +2,7 @@
   "name": "gitpush-cli",
   "version": "1.0.0",
   "bin": {
-    "gitpush": "./bin/index.js"
+    "gitpush": "bin/index.js"
   },
   "description": "Single line CLI to push files to git in one command",
   "main": "index.js",
