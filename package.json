@@ -1,5 +1,5 @@
 {
-  "name": "gitpush",
+  "name": "gitpush-cli",
   "version": "1.0.0",
   "bin": {
     "gitpush": "./bin/index.js"
